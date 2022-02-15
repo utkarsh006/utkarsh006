@@ -1,4 +1,3 @@
-[!https://www.canva.com/design/DAE2-7EX4ms/s-4BY-L-qKSyDVF6oJUAuQ/edit)](https://utkarsh006.github.io)
 <h1 align="center">Hi 👋, I'm UTKARSH SAXENA</h1>
 <h3 align="center">A passionate KOTLIN Android Developer</h3>
 
