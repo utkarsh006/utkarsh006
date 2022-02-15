@@ -1,4 +1,3 @@
-<imgsrc="https://drive.google.com/file/d/1JZdUZJOmf4TabvVg9moVBvlKeNAlhuyf/view?usp=sharing" alt="abc.com" >
 <h1 align="center">Hi 👋, I'm UTKARSH SAXENA</h1>
 <h3 align="center">A passionate KOTLIN Android Developer</h3>
 
