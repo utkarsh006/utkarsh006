@@ -1,3 +1,7 @@
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/94545831/170505399-e669e1d4-97df-491e-847a-90d99dcd562a.gif" />
+  </p>
+  
 <h1 align="center">Hi 👋, I'm UTKARSH SAXENA</h1>
 <h3 align="center">A passionate Kotlin Android Developer from India</h3>
 
