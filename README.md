@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My College App**
 
-- 📝 I regularly write articles on [https://medium.com/@utkarsh06](https://medium.com/@utkarsh06)
+- 📝 I write articles on [https://medium.com/@utkarsh06](https://medium.com/@utkarsh06)
 
 - 📫 MAIL ME : **utkarshsaxena900@gmail.com**
 
