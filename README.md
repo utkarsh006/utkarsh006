@@ -16,7 +16,7 @@
 
 - 📫 MAIL ME : **utkarshsaxena900@gmail.com**
 
-- ⚡ Fun fact **I can be a reason for your Smile :)**  <br><br><br>
+ <br><br>
 
 
 |S.No.|Project Name|Tech|Link|
@@ -26,6 +26,15 @@
 |3.|Voice to Text |Kotlin|https://github.com/utkarsh006/Voice-to-Text| 
 |4.|Google Assistant Clone|Kotlin|Under Working😎| 
 
+<br>
+<p align = "center">
+<img width = "500" src = "https://user-images.githubusercontent.com/94545831/172878058-4cac91b0-1eea-466b-8a40-60f7a5834485.jpg" />
+
+|S.No.|Open Source Program |Duration| Contribution Link|
+|------------------|-------------------|---------|-------|
+|1.|Girlscript Summer Of Code| Mar 2022- May 2022|[7 Pr's Merged](https://docs.google.com/document/d/1aBISBbboCe3fmpyvIQzt3indz0YProDjZAiQU1TCKBc/edit?usp=sharing)|
+</p>
+
 
 
 <br>
@@ -34,7 +43,6 @@
 <a href="https://twitter.com/muzikarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muzikarsh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/utkarsh06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh06" height="30" width="40" /></a>
 <a href="https://instagram.com/the.muzikarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.muzikarsh" height="30" width="40" /></a>
-<a href="https://medium.com/@utkarsh06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@utkarsh06" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/muzikarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muzikarsh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/utkarsh_006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarsh_006" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/utkarsh06/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="utkarsh06/profile" height="30" width="40" /></a>
