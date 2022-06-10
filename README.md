@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src = "https://user-images.githubusercontent.com/94545831/170548031-37562f41-9fe7-46a2-9656-9ed63875261f.gif" />
+  <img width = "500" src = "https://user-images.githubusercontent.com/94545831/170548031-37562f41-9fe7-46a2-9656-9ed63875261f.gif" />
   </p>
   
 <h1 align="center">Hi, I'm Utkarsh Saxena </h1>
