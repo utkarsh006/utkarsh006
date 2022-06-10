@@ -10,13 +10,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh006" alt="utkarsh006" /></a> </p>
 
-- 🔭 I’m currently working on **My College App**
-
 - 📝 I write articles on [MEDIUM](https://medium.com/@utkarsh06)
 
 - 📫 MAIL ME : **utkarshsaxena900@gmail.com**
 
- <br><br>
+<br>
+
+|    |      |
+|-------|-------|
+|<p align="left"><img width = "200" src = "https://user-images.githubusercontent.com/94545831/172980441-f0d77a07-3034-47e0-91fd-15f6cdfca968.gif" /></p>|LINK|
+
+<br>
 
 
 |S.No.|Project Name|Tech|Link|
