@@ -22,6 +22,7 @@
 
 <br>
 
+## PROJECTS
 
 |S.No.|Project Name|Tech|Link|
 |--------|----|----|----|
@@ -31,8 +32,8 @@
 |4.|Google Assistant Clone|Kotlin|Under Working😎| 
 
 <br>
-<p align = "center">
-<img width = "500" src = "https://user-images.githubusercontent.com/94545831/172878058-4cac91b0-1eea-466b-8a40-60f7a5834485.jpg" />
+
+## OPEN SOURCE CONTRIBUTIONS
 
 |S.No.|Open Source Program |Duration| Contribution Link|
 |------------------|-------------------|---------|-------|
