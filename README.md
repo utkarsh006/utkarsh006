@@ -14,6 +14,9 @@
 
 - 📫 MAIL ME : **utkarshsaxena900@gmail.com**
 
+- ☺ [I TEACH DSA HERE](https://www.youtube.com/channel/UCcq5vcH3Z_-OK7DxYjQEl6g)
+
+- ☺ [LISTEN MY ORIGINAL MUSIC HERE](https://www.youtube.com/c/Muzikarsh)
 <br>
 
 |    |      |
