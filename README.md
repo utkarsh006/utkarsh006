@@ -3,7 +3,7 @@
   <img width = "500" src = "https://user-images.githubusercontent.com/94545831/170548031-37562f41-9fe7-46a2-9656-9ed63875261f.gif" />
   </p>
   
-<h1 align="center">Hi, I'm Utkarsh Saxena </h1>
+<h1 align="center">Namaste 🙏🏼 This is Utkarsh Saxena </h1>
 <h3 align="center">A passionate Kotlin Android Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh006&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh006" /> </p>
