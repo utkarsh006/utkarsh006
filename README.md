@@ -8,15 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh006&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh006" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh006" alt="utkarsh006" /></a> </p>
-
 - 📝 I write articles on [MEDIUM](https://medium.com/@utkarsh06)
 
 - 📫 MAIL ME : **utkarshsaxena900@gmail.com**
 
-- ☺ [I TEACH DSA HERE](https://www.youtube.com/channel/UCcq5vcH3Z_-OK7DxYjQEl6g)
+- ☺  [I TEACH DSA HERE](https://www.youtube.com/channel/UCcq5vcH3Z_-OK7DxYjQEl6g)
 
-- ☺ [LISTEN MY ORIGINAL MUSIC HERE](https://www.youtube.com/c/Muzikarsh)
+- 🎵 [LISTEN MY ORIGINAL MUSIC HERE](https://www.youtube.com/c/Muzikarsh)
 <br>
 
 |    |      |
@@ -42,6 +40,10 @@
 |1.|Voice to Text |Kotlin|https://github.com/utkarsh006/Voice-to-Text| 
 
 <br>
+
+<p align="center">
+<img width = "500" src="https://user-images.githubusercontent.com/94545831/175803643-dfbb1371-6a1c-4557-9d72-00dd59cc6279.jpg" />
+  </p>
 
 ## OPEN SOURCE CONTRIBUTIONS
 
