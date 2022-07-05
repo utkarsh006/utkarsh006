@@ -71,4 +71,4 @@
 | | |
 |---|---|
 |<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh006&show_icons=true&locale=en&layout=compact" alt="utkarsh006" /></p>|<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh006&show_icons=true&locale=en" alt="utkarsh006" /></p>|
-|<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh006&" alt="utkarsh006" /></p>| 
+|<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh006&" alt="utkarsh006" /></p>|[![Activity graph](https://activity-graph.herokuapp.com/graph?username=utkarsh006&theme=react-dark)](https://github.com/utkarsh006/github-readme-activity-graph)
