@@ -51,7 +51,7 @@
 |S.No.|Open Source Program |Duration| Contribution Link|
 |------------------|-------------------|---------|-------|
 |1.|Girlscript Summer Of Code| Mar 2022- May 2022|[7 Pr's Merged](https://docs.google.com/document/d/1aBISBbboCe3fmpyvIQzt3indz0YProDjZAiQU1TCKBc/edit?usp=sharing)|
-|2.|Hackclub RAIT|Jul 2022- Aug 2022|Under Progress😎
+|2.|Hackclub RAIT|Jul 2022- Aug 2022|[Click Here](https://docs.google.com/document/d/1wXZDwGbh7NGb9bLLfzIbz3Gn5iBo6li755deKVNmFBI/edit?usp=sharing)
 </p>
 
 
