@@ -38,7 +38,7 @@
 |--------|----|----|----|
 |1.|Bank Management System|C++|[CLICK HERE](https://github.com/utkarsh006/Bank-Management-System)|
 |2.|Tic Tac Toe |Kotlin|[CLICK HERE](https://github.com/utkarsh006/TIC-TAC-TOE)|
-|3.|Google Assistant Clone|Kotlin|Under Working😎| 
+|3.|Notes App|Kotlin|Under Working😎| 
 |4.|News App|Kotlin|[CLICK HERE](https://github.com/utkarsh006/NEWS-APP)| 
 
 <br> 
