@@ -36,10 +36,10 @@
 
 |S.No.|Project Name|Tech|Link|
 |--------|----|----|----|
-|1.|Bank Management System|C++|[CLICK HERE](https://github.com/utkarsh006/Bank-Management-System)|
-|2.|Tic Tac Toe |Kotlin|[CLICK HERE](https://github.com/utkarsh006/TIC-TAC-TOE)|
-|3.|Notes App|Kotlin|Under Working😎| 
-|4.|News App|Kotlin|[CLICK HERE](https://github.com/utkarsh006/NEWS-APP)| 
+|1.|Tic Tac Toe |Kotlin|[CLICK HERE](https://github.com/utkarsh006/TIC-TAC-TOE)|
+|2.|Notes App|Kotlin|[CLICK HERE](https://github.com/utkarsh006/Notes-App)| 
+|3.|News App|Kotlin|[CLICK HERE](https://github.com/utkarsh006/NEWS-APP)|
+
 
 <br> 
 
@@ -48,6 +48,7 @@
 |S.No.|Project Name|Tech|Link|
 |--------|----|----|----|
 |1.|Voice to Text |Kotlin|[CLICK HERE](https://github.com/utkarsh006/Voice-to-Text)| 
+|2.|Bank Management System|C++|[CLICK HERE](https://github.com/utkarsh006/Bank-Management-System)|
 
 <br>
 
