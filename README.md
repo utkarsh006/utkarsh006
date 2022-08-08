@@ -37,7 +37,7 @@
 |S.No.|Project Name|Tech|Link|
 |--------|----|----|----|
 |1.|Tic Tac Toe |Kotlin|[CLICK HERE](https://github.com/utkarsh006/TIC-TAC-TOE)|
-|2.|Notes App|Kotlin|[CLICK HERE](https://github.com/utkarsh006/Notes-App)| 
+|2.|Notes App|Kotlin|Under Working...| 
 |3.|News App|Kotlin|[CLICK HERE](https://github.com/utkarsh006/NEWS-APP)|
 
 
