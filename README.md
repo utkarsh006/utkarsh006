@@ -22,9 +22,9 @@
 ## WORK EXPERIENCE
 
 
-|S.No.|Company|Position|Duration|Work|Certificate|
-|--------|----|----|----|----|----|
-|1.|[CodixLabs](https://www.codixlabs.com/)|SDE Intern|Jul 2022 - Aug 2022 |Ongoing😄 |Soon....|
+|S.No.|Company|Position|Duration|Certificate|
+|--------|----|----|----|----|
+|1.|[CodixLabs](https://www.codixlabs.com/)|SDE Intern|Jul 2022 - Aug 2022 |Soon....|
 
 <br> 
 
