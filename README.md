@@ -17,11 +17,7 @@
 - 🎵 [LISTEN MY ORIGINAL MUSIC HERE](https://www.youtube.com/c/Muzikarsh)
 <br>
 
-|    |      |
-|-------|-------|
-|<p align="left"><img width = "200" src = "https://user-images.githubusercontent.com/94545831/172980441-f0d77a07-3034-47e0-91fd-15f6cdfca968.gif" /></p>|LINK|
 
-<br>
 
 ## WORK EXPERIENCE
 
