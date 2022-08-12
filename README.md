@@ -32,9 +32,10 @@
 
 |S.No.|Project Name|Tech|Link|
 |--------|----|----|----|
-|1.|Tic Tac Toe |Kotlin|[CLICK HERE](https://github.com/utkarsh006/TIC-TAC-TOE)|
+|1.|Voice Integrated AR|Kotlin|Under Working...|
 |2.|Notes App|Kotlin|[CLICK HERE](https://github.com/utkarsh006/Notes-App)| 
 |3.|News App|Kotlin|[CLICK HERE](https://github.com/utkarsh006/NEWS-APP)|
+|4.|Tic Tac Toe |Kotlin|[CLICK HERE](https://github.com/utkarsh006/TIC-TAC-TOE)|
 
 
 <br> 
