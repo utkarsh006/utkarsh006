@@ -24,7 +24,7 @@
 
 |S.No.|Company|Position|Duration|Certificate|
 |--------|----|----|----|----|
-|1.|[CodixLabs](https://www.codixlabs.com/)|SDE Intern|Jul 2022 - Aug 2022 |[LINK](https://drive.google.com/file/d/18xP1WYGFe5X9Ys1DPuaQrRnOR0YG5avk/view?usp=sharing)|
+|1.|[CodixLabs](https://www.codixlabs.com/)|SDE Intern|Jul 2022 - Aug 2022 |[LINK](https://drive.google.com/file/d/13UZ9BrhoawHtqceeG7TDPwoBSFBd90TR/view?usp=sharing)|
 
 <br> 
 
