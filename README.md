@@ -18,7 +18,7 @@
 ||||
 |--|--|--|
 |<a href="https://www.linkedin.com/in/utkarsh06/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>|<a href="https://leetcode.com/utkarsh_006/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>|<a href="https://auth.geeksforgeeks.org/user/utkarsh06/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>|
-|<a href="utkarshsaxena900@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>|<a href="https://medium.com/@utkarsh06"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>|<a href="https://twitter.com/muzikarsh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>|
+|<a href="mail to : utkarshsaxena900@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>|<a href="https://medium.com/@utkarsh06"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>|<a href="https://twitter.com/muzikarsh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>|
 
 
 <br>
