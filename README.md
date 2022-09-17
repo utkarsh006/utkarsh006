@@ -38,7 +38,7 @@
 
 |S.No.|Project Name|Tech|Link|
 |--------|----|----|----|
-|1.|Voice Integrated AR|Kotlin|Under Working...|
+|1.|Quiz App|Kotlin|Under Working...|
 |2.|Notes App|Kotlin|[CLICK HERE](https://github.com/utkarsh006/Notes-App)| 
 |3.|News App|Kotlin|[CLICK HERE](https://github.com/utkarsh006/NEWS-APP)|
 
