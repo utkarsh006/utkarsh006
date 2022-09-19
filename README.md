@@ -62,10 +62,10 @@
 
 ## OPEN SOURCE CONTRIBUTIONS
 
-|S.No.|Open Source Program |Duration| Contribution Link|Role|
-|------------------|-------------------|---------|-------|----|
-|1.|Girlscript Summer Of Code| Mar 2022- May 2022|[7 Pr's Merged](https://docs.google.com/document/d/1aBISBbboCe3fmpyvIQzt3indz0YProDjZAiQU1TCKBc/edit?usp=sharing)|Contributor|
-|2.|Hackclub RAIT|Jul 2022- Aug 2022|[Click Here](https://docs.google.com/document/d/1wXZDwGbh7NGb9bLLfzIbz3Gn5iBo6li755deKVNmFBI/edit?usp=sharing)|Project Admin|
+|S.No.|Open Source Program |Duration| Contribution Link|Role|Rewards|
+|---------|--------|-------|-------|----|-----|
+|1.|Girlscript Summer Of Code| Mar 2022- May 2022|[7 Pr's Merged](https://docs.google.com/document/d/1aBISBbboCe3fmpyvIQzt3indz0YProDjZAiQU1TCKBc/edit?usp=sharing)|Contributor|[LINK](https://drive.google.com/file/d/1CjhxmQkbgNwgq5IlBW8oj6MRws9kftre/view?usp=sharing)|
+|2.|Hackclub RAIT|Jul 2022- Aug 2022|[Click Here](https://docs.google.com/document/d/1wXZDwGbh7NGb9bLLfzIbz3Gn5iBo6li755deKVNmFBI/edit?usp=sharing)|Project Admin|[LINK](https://drive.google.com/file/d/1h9FTipyvj_qhedU7yags2KrBArCnj4Kj/view?usp=sharing)|
 </p>
 
 
