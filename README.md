@@ -79,5 +79,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh006&show_icons=true&locale=en&layout=compact" alt="utkarsh006" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh006&show_icons=true&locale=en" alt="utkarsh006" /></p>
-<p> <img src="https://streak-stats.demolab.com/?user=utkarsh006" /></p>
+
 
