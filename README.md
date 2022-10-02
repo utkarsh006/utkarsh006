@@ -33,16 +33,16 @@
 |1.|[CodixLabs](https://www.codixlabs.com/)|SDE Intern|Jul 2022 - Aug 2022 |[LINK](https://drive.google.com/file/d/13UZ9BrhoawHtqceeG7TDPwoBSFBd90TR/view?usp=sharing)|
 
 <br> 
-
-## PROJECTS
+<details>
+ <summary>
+ 
+## PROJECTS </summary>
 
 |S.No.|Project Name|Tech|Link|
 |--------|----|----|----|
 |1.|Quiz App|Kotlin|Under Working...|
 |2.|Notes App|Kotlin|[CLICK HERE](https://github.com/utkarsh006/Notes-App)| 
 |3.|News App|Kotlin|[CLICK HERE](https://github.com/utkarsh006/NEWS-APP)|
-
-
 
 <br> 
 
@@ -55,11 +55,8 @@
 |3.|Tic Tac Toe |Kotlin|[CLICK HERE](https://github.com/utkarsh006/TIC-TAC-TOE)|
 |4.|Bank Management System|C++|[CLICK HERE](https://github.com/utkarsh006/Bank-Management-System)|
 
+</details>
 <br>
-
-<p align="center">
-<img width = "500" src="https://user-images.githubusercontent.com/94545831/175803643-dfbb1371-6a1c-4557-9d72-00dd59cc6279.jpg" />
-  </p>
 
 ## OPEN SOURCE CONTRIBUTIONS
 
