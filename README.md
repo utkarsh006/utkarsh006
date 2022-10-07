@@ -1,7 +1,6 @@
 
 <p align="center">
-  <img width = "500" src = "https://user-images.githubusercontent.com/94545831/170548031-37562f41-9fe7-46a2-9656-9ed63875261f.gif" />
-  </p>
+  <img src="https://holopin.io/api/user/board?user=utkarsh06"> </p>
   
 
   
