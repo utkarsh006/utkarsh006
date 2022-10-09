@@ -7,7 +7,7 @@
 <h1 align="center">Namaste 🙏🏼 This is Utkarsh </h1>
 <h3 align="center"> A Passionate Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh006&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh006" /> </p>
+
 
 - ☺  [I Teach Here](https://www.youtube.com/channel/UCcq5vcH3Z_-OK7DxYjQEl6g)
 
