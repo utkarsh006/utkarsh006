@@ -7,11 +7,13 @@
 <h1 align="center">Namaste 🙏🏼 This is Utkarsh </h1>
 <h3 align="center"> A Passionate Software Developer from India</h3>
 
+<br><br>
 
+|||
+|---|---|
+| ☺ <b> Learn DSA Here</b>|🎵 <b> Hear My Music </b>|
+|<a href="https://www.youtube.com/channel/UCcq5vcH3Z_-OK7DxYjQEl6g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>|<a href="https://www.youtube.com/c/Muzikarsh"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>|
 
-- ☺  [I Teach Here](https://www.youtube.com/channel/UCcq5vcH3Z_-OK7DxYjQEl6g)
-
-- 🎵 [Hear My Music](https://www.youtube.com/c/Muzikarsh)
  
  <br>
  
