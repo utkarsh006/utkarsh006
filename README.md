@@ -53,9 +53,10 @@
 ## WORK EXPERIENCE
 
 
-|S.No.|Company|Position|Duration|Certificate|
+|S.No.|Company|Position|Duration|Certificate/Rewards|
 |--------|----|----|----|----|
 |1.|[CodixLabs](https://www.codixlabs.com/)|SDE Intern|Jul 2022 - Aug 2022 |[LINK](https://drive.google.com/file/d/13UZ9BrhoawHtqceeG7TDPwoBSFBd90TR/view?usp=sharing)|
+|2.|[GDSC Kalindi](https://gdsc.community.dev/kalindi-college-delhi/)|Core Team Member (DSA & Open Source)|Sep 2022 - Current | Upcoming...|
 
 <br> 
 <details>
