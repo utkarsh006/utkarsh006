@@ -5,7 +5,7 @@
 
   
 <h1 align="center">Namaste 🙏🏼 This is Utkarsh </h1>
-<h3 align="center"> A Passionate Software Developer from India</h3>
+<h3 align="center"> A Passionate Software Developer & Musician🧡 </h3>
 
 <br><br>
 
