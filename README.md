@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img align="left" width="500" src="https://holopin.io/api/user/board?user=utkarsh06"> </p>
+  <img src="https://holopin.io/api/user/board?user=utkarsh06"> </p>
   
 
   
