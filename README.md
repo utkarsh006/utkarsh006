@@ -85,7 +85,8 @@
 
 <details><summary>
 
-## OPEN SOURCE CONTRIBUTIONS  </summary>
+## OPEN SOURCE CONTRIBUTIONS <img width="50" height="50" src="https://user-images.githubusercontent.com/94545831/196567250-dc8cdf16-4949-4752-8740-abb424c8c602.png" />
+ </summary>
 
 |S.No.|Open Source Program/Organization |Duration| Contribution Link|Role|Rewards|
 |:------:|:--------:|:-----------------:|:-------:|:--------------------:|:-----:|
