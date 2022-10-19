@@ -59,6 +59,9 @@
 |2.|[GDSC Kalindi](https://gdsc.community.dev/kalindi-college-delhi/)|Core Team Member (DSA & Open Source)|Sep 2022 - Current | Upcoming...|
 
 <br> 
+
+<img width="500" align="right" src="https://user-images.githubusercontent.com/94545831/196584035-8ba8e34b-710b-4b3a-a76b-68843c6a5a5f.gif" />
+
 <details>
  <summary>
  
@@ -85,7 +88,7 @@
 
 <details><summary>
 
-## OPEN SOURCE CONTRIBUTIONS <img width="50" height="50" src="https://user-images.githubusercontent.com/94545831/196567250-dc8cdf16-4949-4752-8740-abb424c8c602.png" />
+## OPEN SOURCE CONTRIBUTIONS 
  </summary>
 
 |S.No.|Open Source Program/Organization |Duration| Contribution Link|Role|Rewards|
@@ -99,12 +102,13 @@
 
 
 <br>
+<br>
 
 </p>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh006&show_icons=true&locale=en&layout=compact" alt="utkarsh006" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh006&show_icons=true&locale=en" alt="utkarsh006" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh006&show_icons=true&locale=en&layout=compact" alt="utkarsh006" /> &nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh006&show_icons=true&locale=en" alt="utkarsh006" />
 
 
