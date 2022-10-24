@@ -1,11 +1,7 @@
 
 <p align="center">
   <img src="https://holopin.io/api/user/board?user=utkarsh06"> </p>
-  
-
-  
-<h1 align="center">Namaste 🙏🏼 This is Utkarsh </h1>
-<h3 align="center"> A Passionate Software Developer & Musician🧡 </h3>
+ 
 
 <br>
 
