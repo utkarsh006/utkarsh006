@@ -25,7 +25,6 @@
 <a href="https://auth.geeksforgeeks.org/user/utkarsh06/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
 <a href="mailto:utkarshsaxena900@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://medium.com/@utkarsh06"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> </p>
-<a href="https://www.instagram.com/the.muzikarsh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></p>
 </p>
 
 <br>
