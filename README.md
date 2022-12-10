@@ -3,9 +3,6 @@
   <img src="https://holopin.io/api/user/board?user=utkarsh06"> </p>
  
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=utkarsh006&color=blue" />
 
 <br>
 
@@ -53,7 +50,7 @@
 |S.No.|Company|Position|Duration|Certificate/Rewards|
 |--------|----|----|----|----|
 |1.|[CodixLabs](https://www.codixlabs.com/)|SDE Intern|Jul 2022 - Aug 2022 |[LINK](https://drive.google.com/file/d/13UZ9BrhoawHtqceeG7TDPwoBSFBd90TR/view?usp=sharing)|
-|2.|[GDSC Kalindi](https://gdsc.community.dev/kalindi-college-delhi/)|Core Team Member (DSA & Open Source)|Sep 2022 - Current | Upcoming...|
+
 
 <br> 
 
@@ -65,9 +62,8 @@
 
 |S.No.|Project Name|Tech|Link|
 |--------|----|----|----|
-|1.|Quiz App|Kotlin|Under Working...|
-|2.|Notes App|Kotlin|[CLICK HERE](https://github.com/utkarsh006/Notes-App)| 
-|3.|News App|Kotlin|[CLICK HERE](https://github.com/utkarsh006/NEWS-APP)|
+|1.|Notes App|Kotlin|[CLICK HERE](https://github.com/utkarsh006/Notes-App)| 
+|2.|News App|Kotlin|[CLICK HERE](https://github.com/utkarsh006/NEWS-APP)|
 
 <br> 
 
@@ -93,7 +89,9 @@
 |2.|Hackclub RAIT|Jul 2022- Aug 2022|[Click Here](https://docs.google.com/document/d/1wXZDwGbh7NGb9bLLfzIbz3Gn5iBo6li755deKVNmFBI/edit?usp=sharing)|Project Admin|[LINK](https://drive.google.com/file/d/1h9FTipyvj_qhedU7yags2KrBArCnj4Kj/view?usp=sharing)|
 |3.|Hacktoberfest|Oct 1- Oct 31|[Click Here](https://docs.google.com/document/d/1X6txIQnAKZoQSExJY22hrft1AQgXnPwvxSoJ50HdhzA/edit?usp=sharing)|Contributor & Project Maintainer|T-Shirt & Stickers|
 |4.|Open Food Facts, Git||[Click Here](https://docs.google.com/document/d/1Zp9nc592MMsWjNhq2lk-W0FSSRWSmKxznpnORoh2Sk8/edit?usp=sharing)||
+|5.|Kharagpur Winter Of Code|Dec 5 - ||Contributor & Project Mentor||
 </details></p>
+
 
 
 
