@@ -1,31 +1,16 @@
-
-<p align="center">
-  <img src="https://holopin.io/api/user/board?user=utkarsh06"> </p>
- 
-
+<div align="center"><h2> NAMASTE JI 🙏🏼 Utkarsh this side 😉</h2></div>
 
 <br>
 
-|||
-|---|---|
-| ☺ <b> Learn DSA Here</b>|🎵 <b> Hear My Music </b>|
-|<a href="https://www.youtube.com/channel/UCcq5vcH3Z_-OK7DxYjQEl6g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>|<a href="https://www.youtube.com/c/Muzikarsh"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>|
+||||
+|---|---|---|
+| <b> Learn DSA Here</b>|🎵 <b> Hear My Music </b>| <b> PORTFOLIO </b> |
+|<a href="https://www.youtube.com/channel/UCcq5vcH3Z_-OK7DxYjQEl6g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>|<a href="https://www.youtube.com/c/Muzikarsh"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>|[LINK](https://linktr.ee/utkarsh06)|
 
  
  <br>
  
-## PROFILES
-
-<p>
-<a href="https://www.linkedin.com/in/utkarsh06/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://leetcode.com/utkarsh_006/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-<a href="https://auth.geeksforgeeks.org/user/utkarsh06/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
-<a href="mailto:utkarshsaxena900@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://medium.com/@utkarsh06"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> </p>
-</p>
-
-<br>
-
+ 
 ## SKILLS
 <p>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -89,15 +74,15 @@
 |1.|Girlscript Summer Of Code| Mar 2022- May 2022|[Click Here](https://docs.google.com/document/d/1aBISBbboCe3fmpyvIQzt3indz0YProDjZAiQU1TCKBc/edit?usp=sharing)|Contributor|[LINK](https://drive.google.com/file/d/1CjhxmQkbgNwgq5IlBW8oj6MRws9kftre/view?usp=sharing)|
 |2.|Hackclub RAIT|Jul 2022- Aug 2022|[Click Here](https://docs.google.com/document/d/1wXZDwGbh7NGb9bLLfzIbz3Gn5iBo6li755deKVNmFBI/edit?usp=sharing)|Project Admin|[LINK](https://drive.google.com/file/d/1h9FTipyvj_qhedU7yags2KrBArCnj4Kj/view?usp=sharing)|
 |3.|Hacktoberfest|Oct 1- Oct 31|[Click Here](https://docs.google.com/document/d/1X6txIQnAKZoQSExJY22hrft1AQgXnPwvxSoJ50HdhzA/edit?usp=sharing)|Contributor & Project Maintainer|T-Shirt & Stickers|
-|4.|Open Food Facts, Git||[Click Here](https://docs.google.com/document/d/1Zp9nc592MMsWjNhq2lk-W0FSSRWSmKxznpnORoh2Sk8/edit?usp=sharing)||
-|5.|Kharagpur Winter Of Code|Dec 5 - ||Contributor & Project Mentor||
+|4.|Open Food Facts, Firebase, Git||[Click Here](https://docs.google.com/document/d/1Zp9nc592MMsWjNhq2lk-W0FSSRWSmKxznpnORoh2Sk8/edit?usp=sharing)||
+|5.|Kharagpur Winter Of Code|Dec 5 - Present ||Project Mentor||
 </details></p>
 
 
 
 
 <br>
-<br>
+
 
 </p>
 
