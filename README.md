@@ -12,7 +12,7 @@
  
  - <b>Read My Tech Articles [HERE](https://medium.com/@utkarsh06)</b>
  
- <br>
+ 
  
 ## SKILLS
 <p>
