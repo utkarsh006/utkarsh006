@@ -60,10 +60,9 @@
 
 |S.No.|Project Name|Tech|Link|
 |--------|----|----|----|
-|1.|Swiggy Website Clone|HTML,CSS|Under Working....|
-|2.|Voice to Text |Kotlin|[CLICK HERE](https://github.com/utkarsh006/Voice-to-Text)| 
-|3.|Tic Tac Toe |Kotlin|[CLICK HERE](https://github.com/utkarsh006/TIC-TAC-TOE)|
-|4.|Bank Management System|C++|[CLICK HERE](https://github.com/utkarsh006/Bank-Management-System)|
+|1.|Voice to Text |Kotlin|[CLICK HERE](https://github.com/utkarsh006/Voice-to-Text)| 
+|2.|Tic Tac Toe |Kotlin|[CLICK HERE](https://github.com/utkarsh006/TIC-TAC-TOE)|
+|3.|Bank Management System|C++|[CLICK HERE](https://github.com/utkarsh006/Bank-Management-System)|
 
 </details>
 
