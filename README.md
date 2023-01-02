@@ -11,23 +11,6 @@
  <br>
  
  - <b>Read My Tech Articles [HERE](https://medium.com/@utkarsh06)</b>
- 
- 
- 
-## SKILLS
-<p>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> </p>
-<p>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-</p>
 
 <br>
 
@@ -76,7 +59,7 @@
 |1.|Girlscript Summer Of Code| Mar 2022- May 2022|[Click Here](https://docs.google.com/document/d/1aBISBbboCe3fmpyvIQzt3indz0YProDjZAiQU1TCKBc/edit?usp=sharing)|Contributor|[LINK](https://drive.google.com/file/d/1CjhxmQkbgNwgq5IlBW8oj6MRws9kftre/view?usp=sharing)|
 |2.|Hackclub RAIT|Jul 2022- Aug 2022|[Click Here](https://docs.google.com/document/d/1wXZDwGbh7NGb9bLLfzIbz3Gn5iBo6li755deKVNmFBI/edit?usp=sharing)|Project Admin|[LINK](https://drive.google.com/file/d/1h9FTipyvj_qhedU7yags2KrBArCnj4Kj/view?usp=sharing)|
 |3.|Hacktoberfest|Oct 1- Oct 31|[Click Here](https://docs.google.com/document/d/1X6txIQnAKZoQSExJY22hrft1AQgXnPwvxSoJ50HdhzA/edit?usp=sharing)|Contributor & Project Maintainer|T-Shirt & Stickers|
-|4.|Open Food Facts, Firebase, Git||[Click Here](https://docs.google.com/document/d/1Zp9nc592MMsWjNhq2lk-W0FSSRWSmKxznpnORoh2Sk8/edit?usp=sharing)||
+|4.|Open Food Facts, Firebase, Git,Jenkins||[Click Here](https://docs.google.com/document/d/1Zp9nc592MMsWjNhq2lk-W0FSSRWSmKxznpnORoh2Sk8/edit?usp=sharing)||
 |5.|Kharagpur Winter Of Code|Dec 5 - Present ||Project Mentor||
 </details></p>
 
