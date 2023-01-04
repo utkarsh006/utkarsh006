@@ -1,6 +1,4 @@
-<p align="center"><img width="500" src="https://user-images.githubusercontent.com/94545831/210214736-20139030-928b-473b-a8d8-b96bb086aa7a.png" /></p>
-
-
+<p align="center"><img width="500" src="https://user-images.githubusercontent.com/94545831/210467651-6a83206f-54d8-446e-a4f4-f1eb94f64f0c.png" /></p>
 
 
 <br>
@@ -30,10 +28,7 @@
 <br> 
 
 
-<details>
- <summary>
- 
-## PROJECTS </summary>
+<details><summary><h2> PROJECTS </h2></summary>
 
 |S.No.|Project Name|Tech|Link|
 |--------|----|----|----|
@@ -52,10 +47,7 @@
 
 </details>
 
-<details><summary>
-
-## OPEN SOURCE CONTRIBUTIONS 
- </summary>
+<details> <summary><h2> OPEN SOURCE CONTRIBUTIONS </h2></summary>
 
 |S.No.|Open Source Program/Organization |Duration| Contribution Link|Role|Rewards|
 |:------:|:--------:|:-----------------:|:-------:|:--------------------:|:-----:|
@@ -64,17 +56,12 @@
 |3.|Hacktoberfest|Oct 1- Oct 31|[Click Here](https://docs.google.com/document/d/1X6txIQnAKZoQSExJY22hrft1AQgXnPwvxSoJ50HdhzA/edit?usp=sharing)|Contributor & Project Maintainer|T-Shirt & Stickers|
 |4.|Open Food Facts, Firebase, Git,Jenkins||[Click Here](https://docs.google.com/document/d/1Zp9nc592MMsWjNhq2lk-W0FSSRWSmKxznpnORoh2Sk8/edit?usp=sharing)||
 |5.|Kharagpur Winter Of Code|Dec 5 - Present ||Project Mentor||
+ 
 </details></p>
-
-
-
 
 <br>
 
-
 </p>
-
-
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh006&show_icons=true&locale=en&layout=compact" alt="utkarsh006" /> &nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh006&show_icons=true&locale=en" alt="utkarsh006" />
