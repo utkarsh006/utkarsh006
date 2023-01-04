@@ -1,7 +1,4 @@
-<p align="center"><img width="500" src="https://user-images.githubusercontent.com/94545831/210467651-6a83206f-54d8-446e-a4f4-f1eb94f64f0c.png" /></p>
 
-
-<br>
 
 ||||
 |---|---|---|
