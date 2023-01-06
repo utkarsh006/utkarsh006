@@ -19,7 +19,7 @@
 |S.No.|Company|Position|Duration|Certificate|
 |--------|----|----|----|----|
 |1.|[CodixLabs](https://www.codixlabs.com/)|SDE Intern|Jul 2022 - Aug 2022 |[LINK](https://drive.google.com/file/d/13UZ9BrhoawHtqceeG7TDPwoBSFBd90TR/view?usp=sharing)|
-|2.|[Jumping Minds](https://www.jumpingminds.ai/)|Android Intern| Dec 2022 - Present||
+|2.|[Jumping Minds](https://www.jumpingminds.ai/)|Android Intern| Dec 2022||
 
 
 <br> 
