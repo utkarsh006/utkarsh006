@@ -13,24 +13,13 @@
 <br>
 
 
-## WORK EXPERIENCE
-
-
-|S.No.|Company|Position|Duration|Certificate|
-|--------|----|----|----|----|
-|1.|CodixLabs|SDE Intern|Jul 2022 - Aug 2022 |[LINK](https://drive.google.com/file/d/13UZ9BrhoawHtqceeG7TDPwoBSFBd90TR/view?usp=sharing)|
-|2.|JumpingMinds.ai|Android Intern| Dec 2022||
-
-
-<br> 
-
-
-## PROJECTS
+## PROJECTS & WORKS 👨🏽‍💻
 
 |||
 |--|--|
 |Android Projects|[LINK](https://docs.google.com/document/d/1uj9OpFCOUrhL8uSbqCD7i258i04r2wJdP89zyBomPk4/edit?usp=sharing)|
 |Web Frontend Projects|[LINK](https://docs.google.com/document/d/1MwabT8hh6RAeaTpz3EIlNVIH9z-y1IIXxuAo7qzxVaY/edit?usp=sharing)|
+|Devrel Works|[LINK](https://docs.google.com/document/d/1gaUDEBgGhunwtpbArb_P3_f2NkA4pVJbv9VAJkrJKi8/edit?usp=sharing)|
 
 <details> <summary><h2> OPEN SOURCE CONTRIBUTIONS </h2></summary>
 
