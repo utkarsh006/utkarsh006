@@ -1,8 +1,7 @@
 
 ## [Connect With Me](https://linktr.ee/utkarsh06) 💬
 
- - <b>Read My Tech Articles 📃 [HERE](https://medium.com/@utkarsh06)</b>
- - 🎵 [Hear My Music](https://www.youtube.com/c/Muzikarsh)
+[Read My Tech Articles 📃](https://medium.com/@utkarsh06)</b>  &nbsp; &nbsp; &nbsp; 🎵 [Hear My Music](https://www.youtube.com/c/Muzikarsh)
 
 <br>
 
