@@ -1,14 +1,8 @@
 
-## Connect With Me 💬
-||||
-|---|---|---|
-| <b> Learn DSA Here</b>|🎵 <b> Hear My Music </b>| <b> PORTFOLIO </b> |
-|<a href="https://www.youtube.com/channel/UCcq5vcH3Z_-OK7DxYjQEl6g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>|<a href="https://www.youtube.com/c/Muzikarsh"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>|[LINK](https://linktr.ee/utkarsh06)|
+## [Connect With Me](https://linktr.ee/utkarsh06) 💬
 
- 
- <br>
- 
  - <b>Read My Tech Articles 📃 [HERE](https://medium.com/@utkarsh06)</b>
+ - 🎵 [Hear My Music](https://www.youtube.com/c/Muzikarsh)
 
 <br>
 
