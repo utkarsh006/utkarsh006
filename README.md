@@ -1,7 +1,7 @@
 
 ## [Connect With Me](https://linktr.ee/utkarsh06) 💬
 
- 🎵 [Hear My Music](https://www.youtube.com/c/Muzikarsh) &nbsp; &nbsp; &nbsp; 📬 Mail : **utkarshsaxena900@gmail.com**
+ 🎵 [Hear My Music](https://www.youtube.com/c/Muzikarsh)
 
 <br>
 
