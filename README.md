@@ -29,5 +29,4 @@
 
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh006&show_icons=true&locale=en&layout=compact" alt="utkarsh006" /> &nbsp;
-[![GitHub Streak](https://streak-stats.demolab.com?user=utkarsh006&border_radius=3)](https://git.io/streak-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh006&show_icons=true&locale=en&layout=compact" alt="utkarsh006" /> 
