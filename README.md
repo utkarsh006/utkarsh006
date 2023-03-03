@@ -5,14 +5,6 @@
 
 <br>
 
-## Projects 👨🏽‍💻
-
-|||
-|--|--|
-|Android Projects|[LINK](https://docs.google.com/document/d/1uj9OpFCOUrhL8uSbqCD7i258i04r2wJdP89zyBomPk4/edit?usp=sharing)|
-|Web Frontend Projects|[LINK](https://docs.google.com/document/d/1MwabT8hh6RAeaTpz3EIlNVIH9z-y1IIXxuAo7qzxVaY/edit?usp=sharing)|
-|Devrel Works|[LINK](https://docs.google.com/document/d/1gaUDEBgGhunwtpbArb_P3_f2NkA4pVJbv9VAJkrJKi8/edit?usp=sharing)|
-
 <details> <summary><h2> Open Source Contributions ⚙  </h2></summary>
 
 |S.No.|Open Source Program/Organization |Duration| Contribution Link|Role|Rewards|
