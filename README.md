@@ -5,5 +5,8 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh006&layout=compact)](https://github.com/utkarsh006/github-readme-stats)
-![Utkarsh GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh006&show_icons=true&theme=transparent)
+## My Repos for Android Devs ⚙️
+- [Coroutines](https://github.com/utkarsh006/Coroutines-Kotlin)
+- [Dagger Hilt](https://github.com/utkarsh006/Dagger-Hilt-Tutorial)
+- [News App by Basic MVI Impl](https://github.com/utkarsh006/News-App-MVI)
+- [Leetcode Grind](https://github.com/utkarsh006/LeetCode-Grind)
