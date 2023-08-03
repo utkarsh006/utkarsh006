@@ -6,7 +6,6 @@
 <br>
 
 ## My Resources for Android Devs ⚙️
-- [Learning UI's through Jetpack Compose ](https://github.com/utkarsh006/Learning-Jetpack-Compose-)
 - [Coroutines](https://github.com/utkarsh006/Coroutines-Kotlin)
 - [Dagger Hilt](https://github.com/utkarsh006/Dagger-Hilt-Tutorial)
 - [News App by Basic MVI Impl](https://github.com/utkarsh006/News-App-MVI)
