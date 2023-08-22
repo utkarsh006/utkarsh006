@@ -6,6 +6,7 @@
 <br>
 
 ## My Resources for Android Devs ⚙️
+- [Learn Kotlin](https://github.com/utkarsh006/Learn-Kotlin)
 - [Coroutines](https://github.com/utkarsh006/Coroutines-Kotlin)
 - [Dagger Hilt](https://github.com/utkarsh006/Dagger-Hilt-Tutorial)
 - [News App by Basic MVI Impl](https://github.com/utkarsh006/News-App-MVI)
